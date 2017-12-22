@@ -1,0 +1,39 @@
+body {
+    background-color: #131014;
+    background-image: url('http://i600.photobucket.com/albums/tt83/picture-hosting/forest%20at%20night%202_zpsnpmznj0a.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:white;
+}
+.full-page {
+    padding-top: 35vh;
+    padding-bottom: 44vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 40px;
+}
+h2 a ,
+h2 a:hover {
+    color:white;
+    text-decoration: none;
+}
+.stickme {
+    margin-bottom: 100px;
+}
+.jumbotron {
+    background: rgba(0, 0, 0, 0.85);
+}
+
+.spacey {
+    
+    
+}
+#bottom {
+    margin-bottom: 0px;
+    bottom:0px;
+}
+.stick2 {
+    margin-top: 27vh;
+    margin-bottom: 27vh;
+    z-index: 2;
+}
