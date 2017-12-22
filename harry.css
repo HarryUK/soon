@@ -24,16 +24,7 @@ h2 a:hover {
     background: rgba(0, 0, 0, 0.85);
 }
 
-.spacey {
-    
-    
-}
 #bottom {
     margin-bottom: 0px;
     bottom:0px;
-}
-.stick2 {
-    margin-top: 27vh;
-    margin-bottom: 27vh;
-    z-index: 2;
 }
